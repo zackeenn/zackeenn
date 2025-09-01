@@ -1,7 +1,7 @@
 ---
 ![Header](header.png)
 
-<div align="center">
+<div align="right">
   <p float="left">
   <a href="https://www.instagram.com/caro0.0l/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -21,8 +21,15 @@ I'm a 20-year-old Computer Science student with a deep passion for technology an
 
 I’m a problem solver by nature, curious about how things work, and always eager to learn more.  Beyond coding, I enjoy reflecting on life, reading, and finding creative ways to improve myself and help those around me. I also deeply value family — one of my biggest motivations is to provide a better life for my mom.  
 
+# status . . . 📈
+
+![Zackeenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackeenn&show_icons=true&theme=dracula)
+
+#
 <div align="center">
+  
 *eat, sleep, code, repeat... 🎮*
+
 </div>
 
 
