@@ -26,7 +26,7 @@ I’m a problem solver by nature, curious about how things work, and always eage
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zackeenn&show_icons=true&theme=dracula" alt="GitHub Stats" height="180"/> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackeenn&theme=dracula&layout=normal&custom_title=Tecnologias&langs_count=9" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackeenn&theme=dracula&layout=normal&custom_title=Technology&langs_count=9" alt="Top Languages" height="180"/>
 
 </p>
 
