@@ -1,7 +1,7 @@
 ---
 ![Header](header.png)
 
-<div align="right">
+<div align="center">
   <p float="left">
   <a href="https://www.instagram.com/caro0.0l/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
