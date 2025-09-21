@@ -31,7 +31,7 @@ I’m a problem solver by nature, curious about how things work, and always eage
 </p>
 
 <picture align="center">
-![snake animation](https://github.com/<zackeenn>/<zackeenn>/blob/output/github-contribution-grid-snake2.svg)
+
 </picture>
 
 #
