@@ -23,12 +23,12 @@ I’m a problem solver by nature, curious about how things work, and always eage
 
 # status . . . 📈
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zackeenn&show_icons=true&theme=dracula" alt="GitHub Stats" height="180"/> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackeenn&theme=dracula&layout=normal&custom_title=Technology&langs_count=9" alt="Top Languages" height="180"/>
 
-</p>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zackeenn/zackeenn/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake-dark"/>
