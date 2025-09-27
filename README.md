@@ -31,8 +31,10 @@ I’m a problem solver by nature, curious about how things work, and always eage
 </p>
 
 <picture align="center">
-
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 
 #
 <div align="center">
